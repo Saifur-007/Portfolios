@@ -58,6 +58,6 @@ footer{
     border-radius: 20px;
 }
 .experience-item {
-    padding: 10px;
-    border-left: 4px solid rgba(92, 82, 241, 0.2)
+    padding: 10px 10px 10px 25px;
+    border-left: 3px solid rgba(92, 82, 241, 0.2)
 }
